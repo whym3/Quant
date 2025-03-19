@@ -55,8 +55,3 @@ This project is licensed under the **MIT License**.
 ## 📬 Feedback & Contributions
 💡 Have ideas for improvement? Found a bug? Open an **issue** or submit a **pull request**! Let's make crypto trading smarter together. 🚀
 
-## 🌎 Connect
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
